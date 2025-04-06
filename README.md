@@ -9,11 +9,11 @@ This repository contains a collection of exploratory data analysis (EDA) project
 | Adult Income    | Exploratory analysis of demographic data to understand trends and patterns related to income. |
 
 ## Technologies Used
-
+This project uses the following tools and libraries for data analysis and visualization:
 - Python
 - Jupyter Notebook
 - Pandas
 - Matplotlib
 - Seaborn
 - numpy
-- 
+  
