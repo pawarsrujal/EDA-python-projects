@@ -15,3 +15,5 @@ This repository contains a collection of exploratory data analysis (EDA) project
 - Pandas
 - Matplotlib
 - Seaborn
+- numpy
+- 
